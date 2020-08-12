@@ -1,0 +1,42 @@
+It is a fully responsive personal, portfolio, resume template that consists of 5 colors, Light and Dark demos.
+ It has many features of a business website.
+ It is a simple, modern, creative and responsive template.
+ It will help you to present yourself or your business resume more smartly and easily.
+ This is built with HTML5, CSS3, JAVASCRIPT.
+ Its  100% responsive with clean codes.
+
+****************************IMPORTANT POINTS***********************
+
+1) The images used in the site may be subjected to copyright and they are for example purposes only. So, do not use them in the website.
+
+2) It is a FRONT-END Website Template ONLY (It is not full-stack).
+
+
+
+Here is the list of its features :
+
+• Responsive Layout
+
+• 5 Color Skins
+
+• Light/Dark
+
+• Smoooth transitions
+
+• Live Style Switcher
+
+• Clean Code
+
+• W3C Validated
+
+• HTML5 & CSS3 & JAVASCRIPT
+
+• Cross Browser Compatible
+
+• 100% Customizable, all colors can be customized
+
+• Project Image Format
+
+• Font Awesome Icons
+
+• Google Fonts

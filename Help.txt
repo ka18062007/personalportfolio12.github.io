@@ -1,0 +1,37 @@
+
+
+***********************************************************************************************************************************************************************
+
+
+**********************Required Resources**************************
+
+1) A Web Browser (Google Chrome Is Recommended).
+
+2) A Text Editor (Atom Text Editor Is Reommended).
+
+
+
+
+********************** HOW TO CHANGE THE TEXT *********************
+
+1) First locate the place where the text to be changed.
+
+2) Then, select the text (it is mainly between the opening and the closing tag of an element). 
+
+3) Now, remove the demo text and add the required text.
+
+
+
+
+
+********************* HOW TO CHANGE THE IMAGE **********************
+
+
+1) First locate the place where the image is there (look for the <img src="....."> tag).
+
+2) Upload the image you want to change in the images folder.
+
+3) Then change the source of the image. within the ("") punctuation in the <img tag>.
+
+
+***********************************************************************************************************************************************************************
